@@ -52,3 +52,12 @@ h2{
 h3,h4,h5,h6{
   color:#2A160F;
 }
+
+.tours{
+  margin-top: 5%;
+}
+
+.copyright{
+  display:flex;
+  justify-content: center;
+}

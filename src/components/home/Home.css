@@ -1,8 +1,31 @@
-.carousel-inner>img {
+.carousel-inner img {
     width: 100%;
     position: center;
 }
 
 #carouselWithIndicators{
   background-color: #343a40!important;
+}
+
+.featured{
+  width: 100% !important;
+  display: inline-flex;
+}
+
+.featured-section{
+  margin: 5% auto;
+}
+
+.featured-section h3{
+  font-family: Roboto, sans-serif;
+  /* margin: auto 2.5%; */
+}
+
+.blurb-section img{
+  width: 80%;
+  /* margin: auto 2% 2% auto; */
+}
+
+.blurb-section{
+    margin: auto 2% 2% 2%;
 }

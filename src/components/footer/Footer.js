@@ -31,6 +31,11 @@ class Footer extends Component {
             <h2>3pm - 12am FRIDAY</h2>
             <h2>12pm - 12am SATURDAY</h2>
             <h2>12pm - 9pm SUNDAY</h2>
+
+            <h4 className='tours'>BREWERY TOURS</h4>
+            <h2>6pm THURSDAYS</h2>
+            <h2>1pm SATURDAYS.</h2>
+                <p className="copyright">&#169; {new Date().getFullYear()}</p>
           </div>
         </footer>
       </div>
