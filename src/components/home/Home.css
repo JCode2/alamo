@@ -1,0 +1,8 @@
+.carousel-inner>img {
+    width: 100%;
+    position: center;
+}
+
+#carouselWithIndicators{
+  background-color: #343a40!important;
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Bungee|Ewert');
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  font-family: Roboto, sans-serif;
+  color:grey;
+}
+
+h3,h5,h6{
+  font-family: Ewert, cursive;
+}
+
+.head{
+text-align: center;
+}
+
+.navbar{
+  background-color: transparent !important;
+}
+
+footer{
+  display: flex;
+  padding-bottom: 15%;
+  padding-top: 5%;
+  background-color: whitesmoke;
+  /* color:white; */
+  /* justify-content: center; */
+}
+
+.footerList{
+      list-style-type: none;
+}
+
+.fab{
+  margin-top: 1%;
+  display: flex;
+  /* justify-content: space-around; */
+  /* margin-left: 5%; */
+}
+
+h2{
+  color: #C1B88D;
+}
+
+.footer h4{
+  color: grey;
+}
+
+h3,h4,h5,h6{
+  color:#2A160F;
+}

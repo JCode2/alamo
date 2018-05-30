@@ -1,0 +1,22 @@
+.beerCase{
+  margin: 2%;
+}
+
+.info{
+  float: right;
+  display: block;
+}
+
+.jumbo2{
+  background-image: url("https://www.sanantonioarchitects.org/wp-content/uploads/2017/12/Commericial-Architects_1_SanAntonio_Alama-Beer-Brewery.jpg") !important;
+  background-size: cover;
+  /* padding-bottom:28%; */
+}
+
+.head{
+  color: white;
+  margin-bottom: 25%;
+  padding-top:10% !important; 
+}
+
+/* https://static.wixstatic.com/media/57d5d7_40fec938af9e4f55bc0cc3f4a9da36ac~mv2_d_1795_1200_s_2.jpg/v1/fill/w_784,h_524,al_c,q_90,usm_0.66_1.00_0.01/57d5d7_40fec938af9e4f55bc0cc3f4a9da36ac~mv2_d_1795_1200_s_2.webp*/

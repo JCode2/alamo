@@ -1,0 +1,30 @@
+.jumbotron{
+  background-image: url("http://archgened.oucreate.com/wp-content/uploads/2016/04/archlakeflato.jpg");
+  background-size: cover;
+}
+
+.head{
+  color: white;
+  margin-bottom: 25%;
+}
+
+.alamoLogo{
+  width: 100%;
+  margin-top: 5%;
+}
+
+p,h3{
+  margin-top:2.5%;
+}
+
+.real-tx-beer-title{
+  text-align: center;
+}
+
+/* colors:
+
+Yellowish
+#C1B88D
+
+Brownish
+#2A160F */
