@@ -61,3 +61,17 @@ h3,h4,h5,h6{
   display:flex;
   justify-content: center;
 }
+
+.post-form{
+  margin-top: 5%;
+}
+
+.post-form button{
+  margin-top: 2%;
+}
+.form-description{
+  padding: 5%;
+}
+.list-of-events-created{
+  margin-top: 5%;
+}
